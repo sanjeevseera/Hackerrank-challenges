@@ -1,4 +1,4 @@
-Hackerrank
+# Hackerrank
 # Greedy_Algorithms
 Greedy Algorithms challenge
 # Arrays
