@@ -6,7 +6,6 @@ If the book is returned after the expected return day but still within the same 
 If the book is returned after the expected return month but still within the same calendar year as the expected return date, the fine=500*(no of months late).
 If the book is returned after the calendar year in which it was expected, there is a fixed fine of 10000.
 """
-# Enter your code here. Read input from STDIN. Print output to STDOUT
 
 RD = list(map(int,input().split(" ")))
 AD = list(map(int,input().split(" ")))
